@@ -4,7 +4,7 @@
 
 **Welcome to your first project deployment guide!**
 
-For project 1 you will be deploying your game using GitHub Pages. Since GitHub is awesome, this is a simple process that takes 5 steps.
+For project you will be deploying your game using GitHub Pages. Since GitHub is awesome, this is a simple process that takes 5 steps.
 
 ---
 
@@ -35,7 +35,7 @@ For project 1 you will be deploying your game using GitHub Pages. Since GitHub i
 
 ---
 
-#### 5. Pat yourself on the back, click on your link and play your game - it is officially on the internet!
+#### 5. Pat yourself on the back, click on your link and open your site - it is officially on the internet!
 
   ![](./img/step_5.png)
 
